@@ -1,0 +1,2 @@
+# mySpartaSns
+ Django project

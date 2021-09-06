@@ -1,2 +1,2 @@
-# mySpartaSns
+# heumaSns
  Django project

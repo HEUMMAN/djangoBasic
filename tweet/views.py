@@ -70,7 +70,7 @@ def delete_comment(request, id):
     return redirect('/tweet/'+str(current_tweet))
 
 class TagCloudTV(TemplateView):
-    template_name = 'taggit/tag_clout_view.html'
+    template_name = 'taggit/tag_cloud_view.html'
 
 class TaggedObjectLV(ListView):
     template_name = "taggit/tag_with_post.html"

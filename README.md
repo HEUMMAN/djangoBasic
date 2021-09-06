@@ -1,2 +1,2 @@
-# heumaSns
+# heumSns
  Django project
